@@ -2,7 +2,7 @@ Deep links
 ==========
 
 ## The fuck is this?
-This is a list of paths used for mobile deep links in the Teen Quotes website.
+This is a list of paths used for [mobile deep links](http://en.wikipedia.org/wiki/Mobile_deep_linking) in the Teen Quotes website.
 
 ## Documentation
 Teen Quotes uses [AppLinks](http://applinks.org/documentation/) for metadata. Take a look at the documentation.
