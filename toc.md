@@ -9,6 +9,7 @@
 - Quotes
 	- [Homepage](modules/quotes/homepage.md)
 	- [Random quotes](modules/quotes/random.md)
+	- [Viewing a quote](modules/quotes/single.md)
 	- [Adding a quote](modules/quotes/addquote.md)
 
 - Users
